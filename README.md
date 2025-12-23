@@ -1,3 +1,3 @@
-Run the application with viewer.jar, viewer.java has the source.
+viewer.jar is the application, viewer.java is the source file.
 
-It is a bad idea to use this for scanning large folders or viewing large files, the application will freeze up.
+It's a bad idea to use this for scanning large folders or viewing large files, the application will freeze up immensely and use up all your memory.
